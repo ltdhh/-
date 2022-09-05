@@ -3,9 +3,7 @@
     <span class="s1">1</span>
     <div>65454545</div>
 
-    <div>xxxx2</div>
-    <div>xxxxx3</div>
-    <div>21212121233</div>
+    <div>xxxx4</div>
   </div>
 </template>
 
