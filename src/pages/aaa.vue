@@ -1,9 +1,6 @@
 <template>
   <div>
-    <span class="s1">1</span>
-    <div>65454545</div>
-
-    <div>xxxx4</div>
+    <div>我是a1分支</div>
   </div>
 </template>
 
